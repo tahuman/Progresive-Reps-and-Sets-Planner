@@ -10,7 +10,7 @@ Python3.9.6
 
 ## 使用方法
 
-```bash
+```
 # リポジトリをクローン
 git clone https://github.com/tahuman/Progresive-Reps-and-Sets-Planner.git
 
